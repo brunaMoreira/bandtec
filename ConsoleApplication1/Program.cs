@@ -13,6 +13,31 @@ namespace ConsoleApplication1
 
             //teste
 		##Agora a bruuh vai passar nessa bagaçaa;;
+
+            //SEU EU NÃO CONSEGUIR AI JÁ É AZAR MESMO!! APRENDI MECHER NESSA MELECA!!! ##AJUDA EU## 
+
+            //               
+                  //¶¶¶¶¶¶¶¶¶¶¶¶
+                //¶¶            ¶¶
+   //¶¶¶¶¶        ¶¶                ¶¶
+ //  ¶     ¶     ¶¶      ¶¶    ¶¶     ¶¶
+  //  ¶     ¶    ¶¶       ¶¶    ¶¶      ¶¶
+   //  ¶    ¶   ¶¶        ¶¶    ¶¶      ¶¶
+    //  ¶   ¶   ¶                         ¶¶
+  //  ¶¶¶¶¶¶¶¶¶¶¶¶                         ¶¶
+  // ¶            ¶    ¶¶            ¶¶    ¶¶
+ // ¶¶            ¶    ¶¶            ¶¶    ¶¶
+ //¶¶   ¶¶¶¶¶¶¶¶¶¶¶      ¶¶        ¶¶     ¶¶
+ //¶               ¶       ¶¶¶¶¶¶¶       ¶¶
+ //¶¶              ¶                    ¶¶
+ // ¶   ¶¶¶¶¶¶¶¶¶¶¶¶                   ¶¶
+ // ¶¶           ¶  ¶¶                ¶¶
+  //¶¶¶¶¶¶¶¶¶¶¶¶    ¶¶            ¶¶
+ //                 ¶¶¶¶¶¶¶¶¶¶¶
+
+
+
+
             //teste 2 e agora:::
 
             // nananananana 
